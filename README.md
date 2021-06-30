@@ -1,6 +1,6 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Shohruh Yakubjanov and I'm a Data Analyst/Data Scientist. I'm from Uzbekistan, living in Tashkent. 🌱 Recently complete IBM Data Science Professional Certificate and Statistics & Probability Udemy program. In spare times Solving challenges in Hackerrank. You can find me also on [![LinkedIn][3.2]][3]. And reach me shokhrukh.yakubjanov@gmail.com 📫 
+My name is Shohruh Yakubjanov and I'm a Data Scientist/Analyst 📊. I'm from Uzbekistan, living in Tashkent. 🌱 Recently complete IBM Data Science Professional Certificate and Statistics & Probability Udemy program. In spare times Solving challenges in Hackerrank. You can find me also on [![LinkedIn][3.2]][3]. And reach me shokhrukh.yakubjanov@gmail.com 📫 
 
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://shokhrukh-yakubjanov.medium.com).
