@@ -22,6 +22,21 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 <a href="https://github.com/Shohruh22/Shohruh22">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shohruh22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shohruh's GitHub Stats" />
 </a>
+<a href="https://github.com/Shohruh22/machine-learning-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shohruh22&repo=machine-learning-projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Shohruh22/Data-Visualization-Dashboard-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shohruh22&repo=Data-Visualization-Dashboard-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Shohruh22/Coursera_Capstone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shohruh22&repo=Coursera_Capstone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Shohruh22/Data-Analysis-House-Sales-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shohruh22&repo=Data-Analysis-House-Sales-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+
 
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [3]: https://www.linkedin.com/in/shohruh-yakubjanov
