@@ -1,6 +1,6 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Shohruh Yakubjanov and I'm a Data Analyst/Data Scientist. I'm from Uzbekistan, living in Tashkent. 🌱 Recently complete IBM Data Science Professional Certificate and Statistics & Probability Udemy program. In spare times Solving challenges in Hackerrank. You can find me also on [![LinkedIn][3.2]][3]. 📫 You can reach me shokhrukh.yakubjanov@gmail.com
+My name is Shohruh Yakubjanov and I'm a Data Analyst/Data Scientist. I'm from Uzbekistan, living in Tashkent. 🌱 Recently complete IBM Data Science Professional Certificate and Statistics & Probability Udemy program. In spare times Solving challenges in Hackerrank. You can find me also on [![LinkedIn][3.2]][3]. And reach me shokhrukh.yakubjanov@gmail.com 📫 
 
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://shokhrukh-yakubjanov.medium.com).
@@ -22,6 +22,13 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 <a href="https://github.com/Shohruh22/Shohruh22">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shohruh22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shohruh's GitHub Stats" />
 </a>
+
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[3]: https://www.linkedin.com/in/shohruh-yakubjanov
+
+
+
+
 <!---
 Shohruh22/Shohruh22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
