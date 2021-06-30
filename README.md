@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @Shohruh
-- 👀 I’m interested in Data Science & all things related to Data Science)
-- 🌱 I’m currently learning IBM Data Science Professional Certificate, Statistics & Probability, Solving challenges in Hackerrank
-- 📫 How to reach me shokhrukh.yakubjanov@gmail.com
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/Shohruh22/Shohruh22/master/wave.gif" width="30px">
-My name is Shohruh Yakubjanov and I'm a Data Analyst/Data Scientist. I'm from Uzbekistan, living in Tashkent. You can find me also on [![LinkedIn][3.2]][3].
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Shohruh Yakubjanov and I'm a Data Analyst/Data Scientist. I'm from Uzbekistan, living in Tashkent. 🌱 Recently complete IBM Data Science Professional Certificate and Statistics & Probability Udemy program. In spare times Solving challenges in Hackerrank. You can find me also on [![LinkedIn][3.2]][3]. 📫 You can reach me shokhrukh.yakubjanov@gmail.com
 
+## &#x270d; Blog & Writing
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://shokhrukh-yakubjanov.medium.com).
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Shohruh22/Shohruh22">
