@@ -34,6 +34,9 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 <a href="https://github.com/Shohruh22/Data-Analysis-House-Sales-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shohruh22&repo=Data-Analysis-House-Sales-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/Shohruh22/IBM-Data-Science-Certificate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shohruh22&repo=IBM-Data-Science-Certificate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 
